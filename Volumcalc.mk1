@@ -1,0 +1,190 @@
+!define BLANK ""
+C:\Fortran\Volumcalc\Cylinder_segment.obj : C:\Fortran\Volumcalc\Figures\Cyl&
+inder_segment.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Cylinder_segment.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Cylindrical_tube.obj : C:\Fortran\Volumcalc\Figures\Cyl&
+indrical_tube.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Cylindrical_tube.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Matchbox.obj : C:\Fortran\Volumcalc\Figures\Matchbox.fo&
+r .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Matchbox.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Obelisk.obj : C:\Fortran\Volumcalc\Figures\Obelisk.for &
+.AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Obelisk.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Parabolic_barrel.obj : C:\Fortran\Volumcalc\Figures\Par&
+abolic_barrel.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Parabolic_barrel.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Sphere.obj : C:\Fortran\Volumcalc\Figures\Sphere.for .A&
+UTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Sphere.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Sphere_barrel.obj : C:\Fortran\Volumcalc\Figures\Sphere&
+_barrel.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Sphere_barrel.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Sphere_layer.obj : C:\Fortran\Volumcalc\Figures\Sphere_&
+layer.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Sphere_layer.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Sphere_sector.obj : C:\Fortran\Volumcalc\Figures\Sphere&
+_sector.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Sphere_sector.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Sphere_segment.obj : C:\Fortran\Volumcalc\Figures\Spher&
+e_segment.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Sphere_segment.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Straight_cone.obj : C:\Fortran\Volumcalc\Figures\Straig&
+ht_cone.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Straight_cone.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Straight_cylinder.obj : C:\Fortran\Volumcalc\Figures\St&
+raight_cylinder.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Straight_cylinder.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Tetrahedron.obj : C:\Fortran\Volumcalc\Figures\Tetrahed&
+ron.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Tetrahedron.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Torus.obj : C:\Fortran\Volumcalc\Figures\Torus.for .AUT&
+ODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Torus.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Truncated_cone.obj : C:\Fortran\Volumcalc\Figures\Trunc&
+ated_cone.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Truncated_cone.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Truncated_cylinder.obj : C:\Fortran\Volumcalc\Figures\T&
+runcated_cylinder.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Truncated_cylinder.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Wedge.obj : C:\Fortran\Volumcalc\Figures\Wedge.for .AUT&
+ODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Figures\Wedge.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Calc_pages.obj : C:\Fortran\Volumcalc\Interface\Calc_pa&
+ges.for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Interface\Calc_pages.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Dialogs.obj : C:\Fortran\Volumcalc\Interface\Dialogs.fo&
+r .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Interface\Dialogs.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Menus.obj : C:\Fortran\Volumcalc\Interface\Menus.for .A&
+UTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Interface\Menus.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Readers.obj : C:\Fortran\Volumcalc\IO\Readers.for .AUTO&
+DEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 IO\Readers.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Writers.obj : C:\Fortran\Volumcalc\IO\Writers.for .AUTO&
+DEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 IO\Writers.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Calculator.obj : C:\Fortran\Volumcalc\Logic\Calculator.&
+for .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Logic\Calculator.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Hard_calc.obj : C:\Fortran\Volumcalc\Logic\Hard_calc.fo&
+r .AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Logic\Hard_calc.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Helpers.obj : C:\Fortran\Volumcalc\Logic\Helpers.for .A&
+UTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Logic\Helpers.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Volumcalc.obj : C:\Fortran\Volumcalc\Volumcalc.for .AUT&
+ODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ wfc386 Volumcalc.for -d2 -q -dep
+
+C:\Fortran\Volumcalc\Volumcalc.exe : C:\Fortran\Volumcalc\Cylinder_segment.o&
+bj C:\Fortran\Volumcalc\Cylindrical_tube.obj C:\Fortran\Volumcalc\Matchbox.o&
+bj C:\Fortran\Volumcalc\Obelisk.obj C:\Fortran\Volumcalc\Parabolic_barrel.ob&
+j C:\Fortran\Volumcalc\Sphere.obj C:\Fortran\Volumcalc\Sphere_barrel.obj C:\&
+Fortran\Volumcalc\Sphere_layer.obj C:\Fortran\Volumcalc\Sphere_sector.obj C:&
+\Fortran\Volumcalc\Sphere_segment.obj C:\Fortran\Volumcalc\Straight_cone.obj&
+ C:\Fortran\Volumcalc\Straight_cylinder.obj C:\Fortran\Volumcalc\Tetrahedron&
+.obj C:\Fortran\Volumcalc\Torus.obj C:\Fortran\Volumcalc\Truncated_cone.obj &
+C:\Fortran\Volumcalc\Truncated_cylinder.obj C:\Fortran\Volumcalc\Wedge.obj C&
+:\Fortran\Volumcalc\Calc_pages.obj C:\Fortran\Volumcalc\Dialogs.obj C:\Fortr&
+an\Volumcalc\Menus.obj C:\Fortran\Volumcalc\Readers.obj C:\Fortran\Volumcalc&
+\Writers.obj C:\Fortran\Volumcalc\Calculator.obj C:\Fortran\Volumcalc\Hard_c&
+alc.obj C:\Fortran\Volumcalc\Helpers.obj C:\Fortran\Volumcalc\Volumcalc.obj &
+.AUTODEPEND
+ @C:
+ cd C:\Fortran\Volumcalc
+ @%write Volumcalc.lk1 FIL Cylinder_segment.obj,Cylindrical_tube.obj,Matchbo&
+x.obj,Obelisk.obj,Parabolic_barrel.obj,Sphere.obj,Sphere_barrel.obj,Sphere_l&
+ayer.obj,Sphere_sector.obj,Sphere_segment.obj,Straight_cone.obj,Straight_cyl&
+inder.obj,Tetrahedron.obj,Torus.obj,Truncated_cone.obj,Truncated_cylinder.ob&
+j,Wedge.obj,Calc_pages.obj,Dialogs.obj,Menus.obj,Readers.obj,Writers.obj,Cal&
+culator.obj,Hard_calc.obj,Helpers.obj,Volumcalc.obj
+ @%append Volumcalc.lk1 
+!ifneq BLANK ""
+ *wlib -q -n -b Volumcalc.imp 
+ @%append Volumcalc.lk1 LIBR Volumcalc.imp
+!endif
+!ifneq BLANK ""
+ @%append Volumcalc.lk1 
+!endif
+ *wlink name Volumcalc d all sys nt op m op maxe=25 op q op symf @Volumcalc.&
+lk1
+
